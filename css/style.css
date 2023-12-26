@@ -1,0 +1,133 @@
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: auto;
+}
+
+/* header */
+
+header {
+    padding: 32px 0 0 40px;
+}
+
+nav {
+    margin-top: 51px;
+}
+
+.active {
+    color: #F50808;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.no_active {
+    color: #128410;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+li {
+    margin-bottom: 12px;
+}
+
+/* main */
+
+main {
+    width: 1345px;
+}
+
+.main_img {
+    padding: 51px 55px 51px 40px;
+    width: 1345px;
+    height: 720px;
+}
+
+.home_txt {
+    width: 1345px;
+    color: #20FF0D;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 40px;
+    padding-right: 55px;
+}
+
+/* main_about */
+
+.main_about {
+    width: 1320px;
+    padding: 51px 80px 51px 40px;
+}
+
+.main_title {
+    color: #821095;
+    font-family: 'Inter', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 21px;
+}
+
+.about_txt {
+    color: #D41EF2;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+/* contact */
+
+.contact_info_box {
+    width: 448px;
+    background: #D41EF2;
+    margin: auto;
+    margin-top: 51px;
+    Width: 448px;
+    Height: 130px;
+}
+
+.contact_info_box_title {
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 36px;
+    margin-bottom: 16px;
+}
+
+.contact_info_box_text {
+    color: #000;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 8px;
+}
+
+span {
+    color: #C0F6EF;
+}
+
+/* footer */
+
+.social_media {
+    padding: 51px 0 32px 40px;
+}
+
+.fa-square-instagram {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+i {
+    font-size: 50.006px;
+    color: #2414DB;
+    ;
+}
